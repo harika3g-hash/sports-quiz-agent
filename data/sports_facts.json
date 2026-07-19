@@ -1,0 +1,127 @@
+[
+  {
+    "id": "cricket_001",
+    "sport": "Cricket",
+    "text": "India won the 2011 ICC Cricket World Cup, defeating Sri Lanka in the final held at Wankhede Stadium, Mumbai. MS Dhoni was the captain and hit the winning six."
+  },
+  {
+    "id": "cricket_002",
+    "sport": "Cricket",
+    "text": "Sachin Tendulkar holds the record for the most runs in both Test and One Day International (ODI) cricket, and is the only player to score 100 international centuries."
+  },
+  {
+    "id": "cricket_003",
+    "sport": "Cricket",
+    "text": "The Indian Premier League (IPL) is a franchise Twenty20 cricket league founded in 2008. Mumbai Indians and Chennai Super Kings are among the most successful franchises."
+  },
+  {
+    "id": "cricket_004",
+    "sport": "Cricket",
+    "text": "Australia has won the ICC Men's Cricket World Cup a record six times: 1987, 1999, 2003, 2007, 2015, and 2023."
+  },
+  {
+    "id": "cricket_005",
+    "sport": "Cricket",
+    "text": "A standard Test cricket match is played over five days, with each team batting twice, while an ODI is limited to 50 overs per side."
+  },
+  {
+    "id": "football_001",
+    "sport": "Football",
+    "text": "Argentina won the 2022 FIFA World Cup in Qatar, defeating France on penalties after a 3-3 draw. Lionel Messi was named the tournament's best player."
+  },
+  {
+    "id": "football_002",
+    "sport": "Football",
+    "text": "Lionel Messi has won the Ballon d'Or a record eight times, more than any other player in history."
+  },
+  {
+    "id": "football_003",
+    "sport": "Football",
+    "text": "Real Madrid holds the record for the most UEFA Champions League titles, having won the competition 15 times as of 2024."
+  },
+  {
+    "id": "football_004",
+    "sport": "Football",
+    "text": "The FIFA World Cup is held every four years, with Brazil being the most successful national team, having won the tournament five times (1958, 1962, 1970, 1994, 2002)."
+  },
+  {
+    "id": "football_005",
+    "sport": "Football",
+    "text": "A standard football (soccer) match consists of two 45-minute halves, with a team fielding 11 players including a goalkeeper."
+  },
+  {
+    "id": "tennis_001",
+    "sport": "Tennis",
+    "text": "Novak Djokovic holds the record for the most Grand Slam men's singles titles, having surpassed Roger Federer and Rafael Nadal."
+  },
+  {
+    "id": "tennis_002",
+    "sport": "Tennis",
+    "text": "The four Grand Slam tournaments in tennis are the Australian Open, French Open (Roland Garros), Wimbledon, and the US Open."
+  },
+  {
+    "id": "tennis_003",
+    "sport": "Tennis",
+    "text": "Serena Williams won 23 Grand Slam singles titles, the most by any player in the Open Era."
+  },
+  {
+    "id": "tennis_004",
+    "sport": "Tennis",
+    "text": "Wimbledon, first held in 1877, is the oldest tennis tournament in the world and the only Grand Slam still played on grass courts."
+  },
+  {
+    "id": "tennis_005",
+    "sport": "Tennis",
+    "text": "In tennis scoring, a game is won by reaching four points (15, 30, 40, game) with a two-point lead; a set is typically won by reaching six games."
+  },
+  {
+    "id": "badminton_001",
+    "sport": "Badminton",
+    "text": "India won its first-ever Thomas Cup title in 2022, defeating Indonesia 3-0 in the final held in Bangkok, Thailand."
+  },
+  {
+    "id": "badminton_002",
+    "sport": "Badminton",
+    "text": "PV Sindhu became the first Indian woman to win an Olympic silver medal in badminton at the 2016 Rio Olympics, and later won bronze at Tokyo 2020."
+  },
+  {
+    "id": "badminton_003",
+    "sport": "Badminton",
+    "text": "Lin Dan of China is one of the most successful badminton players in history, winning two Olympic gold medals and five World Championship titles."
+  },
+  {
+    "id": "badminton_004",
+    "sport": "Badminton",
+    "text": "The Badminton World Federation (BWF) organizes major events including the Thomas Cup (men's teams), Uber Cup (women's teams), and the annual World Championships."
+  },
+  {
+    "id": "badminton_005",
+    "sport": "Badminton",
+    "text": "A badminton match is typically played as the best of three games, with each game won by the first side to reach 21 points with at least a two-point lead."
+  },
+  {
+    "id": "basketball_001",
+    "sport": "Basketball",
+    "text": "The Boston Celtics hold the record for the most NBA championships, having won the title 18 times as of 2024."
+  },
+  {
+    "id": "basketball_002",
+    "sport": "Basketball",
+    "text": "Kareem Abdul-Jabbar was the NBA's all-time leading scorer until LeBron James surpassed his record in February 2023."
+  },
+  {
+    "id": "basketball_003",
+    "sport": "Basketball",
+    "text": "A standard NBA basketball game consists of four 12-minute quarters, while FIBA international games use four 10-minute quarters."
+  },
+  {
+    "id": "basketball_004",
+    "sport": "Basketball",
+    "text": "The 1992 US Olympic men's basketball team, known as the 'Dream Team,' featured Michael Jordan, Magic Johnson, and Larry Bird and won gold at the Barcelona Olympics."
+  },
+  {
+    "id": "basketball_005",
+    "sport": "Basketball",
+    "text": "Michael Jordan won six NBA championships with the Chicago Bulls and was named Finals MVP in all six of those title runs."
+  }
+]
